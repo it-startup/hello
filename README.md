@@ -62,6 +62,6 @@ background-position: top right ;
     <p id="first">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde asperiores dolorum reprehenderit, sed ea doloremque et aliquam placeat, sit, ad facere odit pariatur?</p>
 </div>
 <div class="shri"> hello i am shree 
-    daughter of shivraj and young <br> sister of daya's sons &#128514;   <br><br><br><br><br><br><br><br><br><br> <br> <br> <hr> </div>
+    daughter of shivraj and   <br> young  sister of daya's sons &#128514;   <br><br><br><br><br><br><br><br><br><br> <br> <br> <hr> </div>
 </body>
 </html>
