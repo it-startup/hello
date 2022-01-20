@@ -33,6 +33,8 @@ background-position: top right ;
 
 
         }
+        body{
+        background-color : pink;
     </style>
 
 </head>
